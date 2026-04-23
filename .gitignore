@@ -1,0 +1,25 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.venv/
+*.pyc
+*.pyo
+# keep derived parquets locally but don't push (they are regeneratable)
+data/derived/
+# unrelated datasets present in the working dir but not used by this project
+data/Diplometrics_COLT_Travel_Dataset_Primary-HOGS-1990-2024_20250317.xlsx
+data/V-Dem-CY-FullOthers-v15_csv/
+
+# Added by GitHub Pages setup
+Thumbs.db
+.idea/
+venv/
+node_modules/
+npm-debug.log*
+.env
+.env.local
+*.key
+*.pem
+data/raw/
+*.csv.gz
