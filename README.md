@@ -1,6 +1,6 @@
 # POLI 3148 Assignment 1 — More Conflicts, More Civilized? ACLED Events vs. Fatalities Discrepancy (2014–2025)
 
-**Live report:** https://richardzhz.github.io/richardzhang-poli3148-acled-discrepancy/
+**Live report:** https://richardzhz.github.io/Assignment-1-copy-5/
 
 ## Overview
 

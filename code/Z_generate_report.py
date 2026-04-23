@@ -11,7 +11,7 @@ DOCS = PROJECT / "docs"
 FIGDIR = DOCS / "figures"
 OUT = DOCS / "index.html"
 
-REPO_URL = "https://github.com/RichardZHZ/richardzhang-poli3148-acled-discrepancy"
+REPO_URL = "https://github.com/RichardZHZ/Assignment-1-copy-5"
 
 
 def fig(rel_name: str, height: int = 520, caption: str = "") -> str:
